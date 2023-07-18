@@ -34,8 +34,12 @@ Screenshots:
 
 
 
+![Screenshot (1070)](https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io/assets/136104351/1155d68c-00ad-4bd4-a1cc-24cb96a197e0)
 
-![Screenshot (1026)](https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io/assets/136104351/2b2e9648-c2aa-4830-935c-dc7d3eca0efe)
+
+
+
+
 
 
 
