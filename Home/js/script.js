@@ -1,6 +1,8 @@
 
 
-
+$(document).ready(function() {
+  $('#myModal').modal('show');
+});
 
 const menu = document.querySelector(".menu");
 const menuMain = menu.querySelector(".menu-main");
