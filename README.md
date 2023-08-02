@@ -6,7 +6,8 @@ THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official s
 
 
 </details>
-# nykaa-fashion-clone.github.io
+
+<h1>nykaa-fashion-clone.github.io</h1>
 
 This is a Clone Website of Nykaa-Fashion, which is one of the largest E-Commerce platforms for fashion and lifestyle in India. 
 This website is fully responsive and built using HTML, CSS, JavaScript, jQuery, and Bootstrap. 
