@@ -11,7 +11,7 @@ The Nykaa Fashion Clone Website is live at GitHub Pages.
 [Click Here](https://debajyotitalukder2001.github.io/nykaa-fashion-clone.github.io/)
 
 
-Screenshots:
+<h2>Screenshots:</h2>
 
 ![Screenshot (1020)](https://github.com/DebajyotiTalukder2001/nykaa-fashion-clone.github.io/assets/136104351/17d721be-3572-4ebf-a7d5-0611256b370e)
 
