@@ -2,7 +2,7 @@
 <h1>Disclaimer</h1>
 THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
 
-<h1>nykaa-fashion-clone.github.io</h1>
+<h1>Nykaa Fashion Clone</h1>
 
 This is a Clone Website of Nykaa-Fashion, which is one of the largest E-Commerce platforms for fashion and lifestyle in India. 
 This website is fully responsive and built using HTML, CSS, JavaScript, jQuery, and Bootstrap. 
