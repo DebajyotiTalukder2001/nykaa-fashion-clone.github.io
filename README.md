@@ -6,7 +6,7 @@ This is NOT the official site of the company or brand identified on the page. Th
 
 <h1>Nykaa Fashion Clone</h1>
 
-This is a clone website of Nykaa-Fashion, which is one of the largest e-commerce platforms for fashion and lifestyle in India. The website is fully responsive and built using HTML, CSS, JavaScript, jQuery, and Bootstrap. 
+This is a clone website of Nykaa-Fashion, which is one of the largest e-commerce platforms for fashion and lifestyle in India. The website is fully responsive and built using HTML, CSS, Bootstrap, JavaScript, and jQuery. 
 
 * Website URL: [Click Here](https://debajyotitalukder2001.github.io/nykaa-fashion-clone.github.io/)
 
